@@ -1,0 +1,134 @@
+.body{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    max-width: 90%;
+}
+.container>p{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+.body p:nth-child(2){
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-weight: 100;
+}
+.body p:nth-child(2) .row button{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-weight: bold;
+}
+.body .row .bodybutton{
+    
+    text-align: center;
+    font-weight: bold;
+    background-color: white;
+    position: absolute;
+    
+    padding: 1px 40px;
+    border: 1px solid black;
+    font-size: 25px;
+    margin-top: 23px;
+    margin-left: 70px;
+    
+}
+.body .bodybutton span{
+    color: red;
+}
+.body .till{
+    margin-top: 100px;
+}
+.col-md-4>p{
+    font-size: 26px;
+}
+.col-md-4>h3{
+    font-weight: bold;
+}
+.row .col-md-4:nth-child(2) img{
+    height: 254px;
+    width: 420px;
+}
+.row .col-md-4:nth-child(1) img{
+    height: 254px;
+    width: 420px;
+}
+.row .col-md-4:nth-child(3) img{
+    height: 254px;
+    width: 420px;
+}
+.body .jill{
+    margin-top: 100px;
+}
+.body .jill .col-md-4 span{
+    font-weight: bold;
+}
+ .body .kill .col-md-4 button {
+    margin-left: 30px;
+}
+@media only screen and (max-width: 1400px) {
+.row .col-md-4:nth-child(2) img{
+    
+    width: 390px;
+}
+.row .col-md-4:nth-child(1) img{
+    
+    width: 390px;
+}
+.row .col-md-4:nth-child(3) img{
+    
+    width: 390px;
+}
+}
+@media only screen and (max-width: 1300px) {
+.row .col-md-4:nth-child(2) img{
+    
+    width: 360px;
+}
+.row .col-md-4:nth-child(1) img{
+    
+    width: 360px;
+}
+.row .col-md-4:nth-child(3) img{
+    
+    width: 360px;
+}
+}
+@media only screen and (max-width: 1200px) {
+.row .col-md-4:nth-child(2) img{
+    
+    width: 320px;
+}
+.row .col-md-4:nth-child(1) img{
+    
+    width: 320px;
+}
+.row .col-md-4:nth-child(3) img{
+    
+    width: 320px;
+}
+}
+@media only screen and (max-width: 1083px) {
+.col-md-4>h3{
+    font-size: 26px;
+}
+.row .col-md-4:nth-child(2) img{
+    
+    width: 285px;
+}
+.row .col-md-4:nth-child(1) img{
+    
+    width: 285px;
+}
+.row .col-md-4:nth-child(3) img{
+    
+    width: 285px;
+}
+}

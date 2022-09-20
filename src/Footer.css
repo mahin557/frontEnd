@@ -1,0 +1,38 @@
+.footer{
+    margin-top: 150px ;
+    height: 322px;
+    overflow-y: scroll;
+   
+}
+.container{
+    max-width: 90%;
+}
+.footer .container div {
+    font-size: 31px;
+    width: 286px;
+    margin: 0px; 
+    padding: 0px;
+    text-align: left; 
+    font-weight: 100;
+    margin-top: 0px;
+}
+.footer .container div:nth-child(2){
+    margin-left:103px
+}
+.footer .container div:nth-child(3){
+    margin-left:500px
+}
+.footer .container div:nth-child(4){
+    text-align: center;
+}
+@media only screen and (max-width: 1800px) {
+.footer .container div:nth-child(3){
+    margin-left:400px;
+
+}
+}
+@media only screen and (max-width: 1300px) {
+.footer .container div button{
+    width: 150px;
+}
+}

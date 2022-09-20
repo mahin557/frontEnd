@@ -1,0 +1,121 @@
+.company{
+    margin-top: 200px ;
+   
+}
+.container{
+    max-width: 90%;
+}
+.company h3{
+    font-weight: bold;
+   
+}
+.company .row .col-md-4 img {
+    width: 415px;
+    height: 160px;
+}
+.company h3:nth-child(3){
+    font-weight: bold;
+    margin-top: 100px;
+   
+}
+.company .container .row:nth-child(4) img{
+    width: 188px;
+}
+.company .container .row:nth-child(4) span{
+    font-size: 25px;
+    margin-top: 20px;
+}
+.company h3:nth-child(5){
+    font-weight: bold;
+    margin-top: 100px;
+   
+}
+.bottom{
+    font-size: 30px;
+}
+.bottom .right{
+    margin-left: 280px;
+}
+@media only screen and (max-width: 1514px) {
+.bottom {
+    font-size: 28px;
+}
+}
+@media only screen and (max-width: 1436px) {
+.bottom {
+    font-size: 26px;
+}
+.company .row .col-md-4 img {
+    width: 360px;
+    
+}
+}
+@media only screen and (max-width: 1357px) {
+.bottom {
+    font-size: 25px;
+}
+
+}
+@media only screen and (max-width: 1357px) {
+.bottom {
+    font-size: 24px;
+}
+}
+@media only screen and (max-width: 1279px) {
+.bottom {
+    font-size: 23px;
+}
+}
+@media only screen and (max-width: 1240px) {
+.bottom {
+    font-size: 22px;
+}
+.company .row .col-md-4 img {
+    width: 320px;
+    
+}
+}
+@media only screen and (max-width: 1200px) {
+.bottom {
+    font-size: 21px;
+}
+
+}
+@media only screen and (max-width: 1160px) {
+.bottom {
+    font-size: 20px;
+}
+
+}
+@media only screen and (max-width: 1122px) {
+.bottom {
+    font-size: 19px;
+}
+
+}
+@media only screen and (max-width: 1083px) {
+.bottom {
+    font-size: 18px;
+}
+
+}
+@media only screen and (max-width: 1050px) {
+.bottom {
+    font-size: 18px;
+}
+.company .row .col-md-4 img {
+    width: 285px;
+    
+}
+.company .container .row:nth-child(4) span{
+    font-size: 20px;
+    
+}
+}
+@media only screen and (max-width: 975px) {
+
+.company .container .row:nth-child(4) span{
+    font-size: 15px;
+    
+}
+}
